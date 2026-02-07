@@ -10,4 +10,8 @@ package com.naes.models;
  */
 public class Student {
     
+    Student() {
+        
+    }
+    
 }
